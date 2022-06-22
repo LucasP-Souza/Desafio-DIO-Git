@@ -1,2 +1,2 @@
 # Desafio-DIO-Git
-Primeiro desafio da plataforma DIO sobre Git/Github
+Desafios da plataforma DIO - Bootcamp Geração Tech Unimed-BH | Fullstack
